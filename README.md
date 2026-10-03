@@ -2,7 +2,7 @@
 
 *Bounding warrior scaling in WoW: Forever without losing what makes rage fun.*
 
-**[Read the proposal (PDF)](docs/rage-normalization-proposal.pdf)** · [Word version](docs/rage-normalization-proposal.docx) · [Data and sim results (Excel)](data/warrior-rage-data.xlsx) · [Modified WarriorSim](https://github.com/speak-gg/guybrushsim-rage-norm)
+**[Read the proposal (PDF)](docs/rage-normalization-proposal.pdf)** · [Word version (download)](docs/rage-normalization-proposal.docx) · [Data and sim results (Excel)](data/warrior-rage-data.xlsx) · [Modified WarriorSim](https://github.com/speak-gg/guybrushsim-rage-norm)
 
 ## The problem
 
