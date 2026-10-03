@@ -35,8 +35,8 @@ At raid gear, the proposal deals about the same damage as Forever (3–9% more) 
 
 | Path | What it is |
 |---|---|
-| `docs/warrior-rage-proposal.pdf` | The full design document |
-| `docs/warrior-rage-proposal.docx` | Editable version |
+| `docs/rage-normalization-proposal.pdf` | The full design document |
+| `docs/rage-normalization-proposal.docx` | Editable version |
 | `data/warrior-rage-data.xlsx` | Every sim result, the rage curve with editable parameters, class-ratio data from Warcraft Logs, sim setup and gear lists |
 
 ## Method
