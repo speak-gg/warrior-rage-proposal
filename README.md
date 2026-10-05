@@ -1,4 +1,4 @@
-# A Better Trade for Normalized Rage
+# Keep the Rage, Cap the Ceiling
 
 *Bounding warrior scaling in WoW: Forever without losing what makes rage fun.*
 
