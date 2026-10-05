@@ -4,7 +4,7 @@
 
 ## **[Read the proposal (PDF)](docs/rage-normalization-proposal.pdf)** 
 
-[Google Docs version](https://docs.google.com/document/d/1slDoLsU9cN3qjq9S_-06Ojo53PTH07unQMNqFwH2cWE/edit?usp=sharing) · [Word version (download)](docs/rage-normalization-proposal.docx) · [Data and sim results (Google Sheets)](https://docs.google.com/spreadsheets/d/1qweL-JtXsbx5mTtrQmffD1H3CIoDGQ2Z8uG_fj5_Ahs/edit?usp=sharing) · [Excel version (download)](data/warrior-rage-data.xlsx) · [Modified WarriorSim](https://speak-gg.github.io/guybrushsim-rage-norm/classic.html)
+[Google Docs version](https://docs.google.com/document/d/10ibPxc1XLC9WozjiLiXwyJKh14yadSnQs6exdCGANIU/edit?usp=sharing) · [Word version (download)](docs/rage-normalization-proposal.docx) · [Data and sim results (Google Sheets)](https://docs.google.com/spreadsheets/d/12UjH0ZSsiMYHGztYJ707mY6k3loAYuTOLrVYlYZoiVc/edit?usp=sharing) · [Excel version (download)](data/warrior-rage-data.xlsx) · [Modified WarriorSim](https://speak-gg.github.io/guybrushsim-rage-norm/classic.html)
 
 ## The problem
 
