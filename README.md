@@ -5,7 +5,9 @@
 # **[Read the proposal (PDF)](https://github.com/speak-gg/warrior-rage-proposal/blob/main/docs/rage-normalization-proposal.pdf)**
 
 
-[Google Docs version](https://docs.google.com/document/d/10ibPxc1XLC9WozjiLiXwyJKh14yadSnQs6exdCGANIU/edit?usp=sharing) · [Word version (download)](https://github.com/speak-gg/warrior-rage-proposal/blob/main/docs/rage-normalization-proposal.docx) · [Data and sim results (Google Sheets)](https://docs.google.com/spreadsheets/d/12UjH0ZSsiMYHGztYJ707mY6k3loAYuTOLrVYlYZoiVc/edit?usp=sharing) · [Excel version (download)](https://github.com/speak-gg/warrior-rage-proposal/blob/main/data/warrior-rage-data.xlsx) · [Modified WarriorSim](https://speak-gg.github.io/guybrushsim-rage-norm/classic.html)
+[Google Docs version](https://docs.google.com/document/d/10ibPxc1XLC9WozjiLiXwyJKh14yadSnQs6exdCGANIU/edit?usp=sharing) · [Data and sim results (Google Sheets)](https://docs.google.com/spreadsheets/d/12UjH0ZSsiMYHGztYJ707mY6k3loAYuTOLrVYlYZoiVc/edit?usp=sharing) · [Modified WarriorSim](https://speak-gg.github.io/guybrushsim-rage-norm/classic.html)
+
+DOWNLOADS: [Word version (download)](https://github.com/speak-gg/warrior-rage-proposal/blob/main/docs/rage-normalization-proposal.docx) · [Excel version (download)](https://github.com/speak-gg/warrior-rage-proposal/blob/main/data/warrior-rage-data.xlsx)
 
 ## The problem
 
