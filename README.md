@@ -1,6 +1,6 @@
 # Keep the Rage, Cap the Ceiling
 
-*Bounding warrior scaling in WoW: Forever without losing what makes rage fun.*
+*A better trade for normalized rage in WoW: Forever*
 
 ## **[Read the proposal (PDF)](docs/rage-normalization-proposal.pdf)** 
 
